@@ -1,5 +1,5 @@
 {
-  description = "my project description";
+  description = "A development environment to build and test Prometheus";
 
   inputs.flake-utils.url = "github:numtide/flake-utils";
 
