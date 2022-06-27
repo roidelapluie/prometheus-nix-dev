@@ -33,6 +33,7 @@
               yamllint
               git
               nodejs-16_x
+              gofumpt
             ];
           };
       }
