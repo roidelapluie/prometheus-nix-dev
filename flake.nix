@@ -34,6 +34,7 @@
               git
               nodejs-16_x
               gofumpt
+              goimports
             ];
           };
       }
