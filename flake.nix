@@ -31,6 +31,7 @@
               curl
               golangci-lint
               yamllint
+              jq
               git
               nodejs-16_x
               gofumpt
