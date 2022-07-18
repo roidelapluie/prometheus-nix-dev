@@ -32,6 +32,7 @@
               golangci-lint
               yamllint
               jq
+              docker
               git
               nodejs-16_x
               gofumpt
