@@ -35,6 +35,7 @@
               docker
               git
               nodejs-16_x
+              graphviz
               gofumpt
               gotools
             ];
