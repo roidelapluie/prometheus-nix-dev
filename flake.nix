@@ -34,7 +34,7 @@
               jq
               docker
               git
-              nodejs-16_x
+              nodejs-18_x
               graphviz
               gofumpt
               gotools
