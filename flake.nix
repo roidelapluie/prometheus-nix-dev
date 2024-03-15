@@ -34,6 +34,7 @@
               jq
               docker
               git
+              govulncheck
               nodejs-18_x
               graphviz
               gofumpt
